@@ -1,0 +1,4 @@
+# 02/06/2025
+Tạo source code
+Xây dựng giao diện
+Xây dựng csdl
