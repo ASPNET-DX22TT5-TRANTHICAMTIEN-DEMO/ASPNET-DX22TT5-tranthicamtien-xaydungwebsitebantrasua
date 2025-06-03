@@ -7,3 +7,10 @@ Tạo source code
 Xây dựng giao diện
 
 Xây dựng csdl
+
+# 03/06/2025
+Thêm các thư viện
+
+Cắt template giao diện
+
+Viết script tạo bảng, trường trong bảng và các mối quan hệ
