@@ -14,3 +14,18 @@ Thêm các thư viện
 Cắt template giao diện
 
 Viết script tạo bảng, trường trong bảng và các mối quan hệ
+
+# 04/06/2025
+Liên kết các bảng,trường trong cơ sở dữ liệu
+
+Xử lý hiển lấy dữ liệu từ database ra
+
+Thêm dữ liệu vào database từ controller
+
+# 05/06/2025
+
+Sửa dữ liệu vào database từ controller
+
+Xóa dữ liệu vào database từ controller
+
+Gửi dữ liệu lên giao diện để hiển thị ra
