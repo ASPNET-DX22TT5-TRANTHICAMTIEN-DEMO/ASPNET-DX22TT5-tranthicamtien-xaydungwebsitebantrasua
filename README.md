@@ -29,3 +29,10 @@ Sửa dữ liệu vào database từ controller
 Xóa dữ liệu vào database từ controller
 
 Gửi dữ liệu lên giao diện để hiển thị ra
+
+# 06/06/2025
+View dữ liệu từ controller lên giao diện view
+
+Truyền dữ liệu từ giao diện view trong các form submit tới controller xử lý
+
+Tạo trang quản trị viên cho các chức năng CRUD
