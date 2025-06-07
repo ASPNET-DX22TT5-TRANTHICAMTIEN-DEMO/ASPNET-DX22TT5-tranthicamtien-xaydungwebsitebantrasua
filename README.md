@@ -36,3 +36,8 @@ View dữ liệu từ controller lên giao diện view
 Truyền dữ liệu từ giao diện view trong các form submit tới controller xử lý
 
 Tạo trang quản trị viên cho các chức năng CRUD
+
+# 07/06/2025
+Code controller xử lý CRUD dữ liệu bên admin
+
+Hoàn thiện các chức năng giao diện bên người dùng
