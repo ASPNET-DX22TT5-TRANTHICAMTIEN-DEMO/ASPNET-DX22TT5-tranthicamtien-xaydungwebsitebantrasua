@@ -41,3 +41,11 @@ Tạo trang quản trị viên cho các chức năng CRUD
 Code controller xử lý CRUD dữ liệu bên admin
 
 Hoàn thiện các chức năng giao diện bên người dùng
+# 08/06/2025
+Hoàn thiện các giao diện trang web
+
+Hoàn thiện các chức năng
+
+Hoàn thiện cơ sở dữ liệu
+
+Cập nhật file báo cáo word
